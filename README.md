@@ -1,7 +1,6 @@
 # jcchat
 
-> A Vue.js project
-
+>树列表拖拽
 ## Build Setup
 
 ``` bash
